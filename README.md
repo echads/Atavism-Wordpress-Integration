@@ -67,3 +67,6 @@ https://atavismonline.com/
 
 ### Atavism Toolbox
 - https://forum.atavismonline.com/topic/3751-atavism-toolbox/
+
+### Launcher for Windows
+- https://blog.visuafusion.com/AtavismGameLauncherforWindows
