@@ -7,7 +7,10 @@ Feel free to ask for join to the Atavism Community all are welcome. Pull request
 # First Step
 Someone test this codebase please or send pull request with your changes so we know the status. Also look at https://github.com/Atavism-Community/Atavism-Wordpress-Integration/tree/dev-1.0.3 and let us know what is what.
 
-# quick starter lis
+# quick starter list
+### Videos
+- https://www.youtube.com/watch?v=FFrri27p3O0&list=PL55env4uNPGaPPqSJWxsm7GRRWE8ueWuR
+# cont.
 Add license the github way.
 Add some git flow tips for folks that don't know.
 most of that can be a wiki page with some links.
