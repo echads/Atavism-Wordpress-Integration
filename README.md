@@ -61,3 +61,6 @@ A rather formal term; in popular speech the circumlocution skip a generation is 
 
 # Join Us:
 https://atavismonline.com/
+
+### Similar Work
+- https://github.com/kimselius/atavism-cms
